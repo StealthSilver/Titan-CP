@@ -1,0 +1,32 @@
+# --- Compiled / linked ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+a.out
+
+# macOS debug symbols
+*.dSYM/
+
+# Named executables (g++ -o <name>); add yours here if needed
+new
+snippet
+
+# --- Local test I/O (regenerated when you run) ---
+output.txt
+
+# --- IDE / editor ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
